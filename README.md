@@ -12,7 +12,7 @@ Converts text into an MP3 audio file
 
 Uses offline text-to-speech (no API keys required)
 
-# 🛠 Requirements
+# Requirements
 
 Python 3.8+
 
@@ -38,3 +38,4 @@ Update the file path in the script if necessary
 
 
 The generated audio file (story.mp3) will appear in the same directory
+
